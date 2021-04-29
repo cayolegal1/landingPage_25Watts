@@ -1,0 +1,19 @@
+section.Hero {
+    img {
+      @include breakpoint("tablet") {
+        height: 700px;
+        object-fit: cover;
+      }
+      @include breakpoint("mobile") {
+        height: 800px;
+        object-fit: cover;
+      }
+    }
+  }
+ 
+
+  @media (max-width: 20rem) {
+    .imagenslider {
+      width: 20%;
+    }
+  }
