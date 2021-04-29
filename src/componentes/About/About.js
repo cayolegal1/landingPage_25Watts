@@ -13,7 +13,7 @@ const About = () => {
                 <p className="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, aspernatur. Suscipit
                     repellendus totam, ullam ratione reprehenderit excepturi dolore maiores aliquid, blanditiis nisi
                     repudiandae? Quibusdam itaque earum incidunt distinctio molestiae suscipit nihil dolores et
-                    consectetur sapiente eum facilis, culpa aspernatur natus libero architecto tempora atque accusamus
+                    consectetur sapiente eumn facilis, culpa aspernatur natus libero architecto tempora atque accusamus
                     perspiciatis doloribus nisi pariatur voluptatum eligendi! Voluptas dignissimos, debitis illum atque
                     molestiae ipsa aperiam ad amet, saepe natus quaerat quis perferendis beatae vitae est minima ex
                     nulla odio cumque dolore ipsam, maiores alias quod consequatur. Ducimus eos praesentium quisquam
