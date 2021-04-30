@@ -1,9 +1,12 @@
 @import '../componentes/Header/estilos.scss';
+@import '../../public/header.scss';
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
 @import url("https://fonts.google.com/specimen/Poppins?preview.text_type=custom");
 @import './overrides';
 @import './mixin';
+@import '../../public/hero.scss';
 @import '../componentes/About/estilos.scss';
 @import '../componentes/Products/estilos.scss';
 @import '../componentes/Services/estilos.scss';
 @import '../containers/Contact/estilos.scss';
+@import '../componentes/Footer/estilos.scss'

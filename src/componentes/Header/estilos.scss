@@ -1,4 +1,4 @@
-@media (min-width: 401px) {
+@media (min-width: 411px) {
 
 .header {
     //preguntar por que en position relative el slider no cubrió todo el header y en absolute si
@@ -70,7 +70,7 @@
     }
 
   }
-    @media (max-width: 400px) {
+    @media (max-width: 410px) {
       .header {
         display: inline-flex;
         height: 5rem;
@@ -96,7 +96,7 @@
       ul {
         margin-top: 1rem;
         display: flex;
-        font-size: 11.9px;
+        font-size: 9.9px; // en galaxy s5 
         font-weight: 600;
         margin-left: -70px;
       }
@@ -109,11 +109,13 @@
         box-sizing: border-box;
         list-style: none;
         padding-right: 0.18rem;
-        margin-right: 0;
+        margin-right: 5px; //galaxy s5
       }
 
       .lista {
         color: white;
       }
+
+    
       
     }

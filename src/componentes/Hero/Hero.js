@@ -13,8 +13,8 @@ const Hero = () => {
       alt="First slide" title="Slider"
     /> 
     <Carousel.Caption>
-      <h3>Sed ut perspiciatis  <br/> unde omnis iste natus</h3>
-      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantim doloremque primero.</p>
+      <h3 className ="jeje">Sed ut perspiciatis  <br/> unde omnis iste natus</h3>
+      <p className >Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantim doloremque primero.</p>
       <Button variant='primary' className="But-read"> Read More </Button>
     </Carousel.Caption>
   </Carousel.Item>
