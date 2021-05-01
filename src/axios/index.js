@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({           //se crea una instancia  
-    baseURL: 'http://localhost:8000/api/'
+    baseURL: 'https://api-php-fullstack.herokuapp.com/api'
 })
 
 
