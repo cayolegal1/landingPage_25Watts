@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.scss';
 import App from './App';
 import ReactGA from 'react-ga';
-import TRACKING_ID from './App'
+
+const TRACKING_ID = "G-QLR6PC1TVJ";
 
 
 ReactDOM.render(

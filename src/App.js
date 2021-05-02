@@ -8,8 +8,6 @@ import Contact from './containers/Contact/Contact';
 import Footer from './componentes/Footer/Footer';
 
 
-const TRACKING_ID = 'G-QLR6PC1TVJ';
-
 const App =() => {
   return (
     <div className="App">
@@ -24,4 +22,4 @@ const App =() => {
   );
 }
 
-export default [App, TRACKING_ID];
+export default App;
