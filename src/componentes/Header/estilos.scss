@@ -1,4 +1,4 @@
-@media (min-width: 411px) {
+@media (min-width: 501px) {
 
 .header {
     //preguntar por que en position relative el slider no cubrió todo el header y en absolute si
@@ -70,7 +70,7 @@
     }
 
   }
-    @media (max-width: 410px) {
+    @media (max-width: 500px) {
 
       html {
         top: 0;
@@ -80,7 +80,7 @@
       .header {
         display: inline-flex;
         height: 3.75rem;
-        width: 22.5rem;
+        width: 26.5rem;
         border-bottom: 1px solid $color-primary;
         position: fixed;
         z-index: 1000;
@@ -99,13 +99,13 @@
 
       .navbar {
         padding: 0;
-        margin-right: 1.37rem;
+        margin-right: 3.37rem;
       }
 
       ul {
         margin-top: 1rem;
         display: flex;
-        font-size: 7.9px;
+        font-size: 8px;
         font-weight: 600;
         margin-left: -33px;
       }
@@ -128,3 +128,15 @@
     
       
     }
+
+@media (max-width:400px) and (min-width: 331px)  {
+  .navbar {
+    margin-right: 5.37rem;
+  }
+}
+
+@media (max-width:330px) {
+  .navbar {
+    margin-right: 7.37rem;
+  }
+}
