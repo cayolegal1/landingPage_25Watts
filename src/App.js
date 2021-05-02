@@ -6,9 +6,9 @@ import Products from './componentes/Products/Products';
 import Services from './componentes/Services/Services';
 import Contact from './containers/Contact/Contact';
 import Footer from './componentes/Footer/Footer';
-import ReactGA from 'react-ga';
 
-const TRACKING_ID = G-QLR6PC1TVJ;
+
+const TRACKING_ID = 'G-QLR6PC1TVJ';
 
 const App =() => {
   return (
